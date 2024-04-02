@@ -31,7 +31,7 @@
     <style>
         html, body {width: 100%;height: 100%;overflow: hidden}
         /*body {background: #1E9FFF;}*/
-        body{background: url("http://wangpeng-imgsubmit.oss-cn-hangzhou.aliyuncs.com/img/20211012164441.jpg");background-size: 100%;}
+        body{background: url("https://ts1.cn.mm.bing.net/th/id/R-C.7bcf15a6f2a8b5e99e25961f29a571ed?rik=stXP6%2f%2bNRvPKyg&riu=http%3a%2f%2fimage.nbd.com.cn%2fuploads%2farticles%2fimages%2f960573%2f__________-501435354.jpg&ehk=fdg80ummg3PHjMAZRf8oj2fGOWkA%2b6%2bFhtE26M7WmT0%3d&risl=&pid=ImgRaw&r=0");background-size: 100%;}
         body:after {content:'';background-repeat:no-repeat;background-size:cover;-webkit-filter:blur(3px);-moz-filter:blur(3px);-o-filter:blur(3px);-ms-filter:blur(3px);filter:blur(3px);position:absolute;top:0;left:0;right:0;bottom:0;z-index:-1;}
         .layui-container {width: 100%;height: 100%;overflow: hidden}
         .admin-login-background {width:360px;height:300px;position:absolute;left:50%;top:40%;margin-left:-180px;margin-top:-100px;}
