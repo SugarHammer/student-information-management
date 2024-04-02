@@ -187,24 +187,24 @@
                             </tr>
                             <tr>
                                 <td>作者</td>
-                                <td>围观客</td>
+                                <td>肯尼基蛙</td>
                             </tr>
                             <tr>
                                 <td>演示地址</td>
                                 <td>
-                                    在线演示：<a href="http://www.weiguanke.cn/" target="_blank">点击查看</a><br>
+                                    在线演示：<a href="https://gitee.com/Sugar_hammer/projects" target="_blank">点击查看</a><br>
                                 </td>
                             </tr>
                             <tr>
                                 <td>下载地址</td>
                                 <td>
-                                    <a href="http://www.weiguanke.cn/" target="_blank">围观客</a><br>
+                                    <a href="https://gitee.com/Sugar_hammer/projects" target="_blank">肯尼基蛙</a><br>
                                 </td>
                             </tr>
                             <tr>
                                 <td>联系方式</td>
                                 <td>
-                                    http://www.weiguanke.cn/
+                                    https://gitee.com/Sugar_hammer/projects
                                 </td>
                             </tr>
                             </tbody>
