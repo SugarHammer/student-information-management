@@ -31,7 +31,7 @@ SSM（spring+springmvc+mybatis）+ layui + mysql
 #### 功能概览图
 ![输入图片说明](photo/%E5%8A%9F%E8%83%BD%E5%9B%BE.png)
 
-### 演示截图
+### 部分功能演示
 #### 管理员功能
 ![输入图片说明](photo/%E7%AE%A1%E7%90%86%E5%91%98%E5%8A%9F%E8%83%BD.gif)
 
