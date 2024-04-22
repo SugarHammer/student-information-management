@@ -208,7 +208,7 @@
                             <tr>
                                 <td>项目名称</td>
                                 <td>
-                                    StudentManager学生信息管理系统
+                                    StudentManager教务管理系统
                                 </td>
                             </tr>
                             <tr>

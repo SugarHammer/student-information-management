@@ -4,7 +4,7 @@
     "href": "manager/manager_welcome.jsp"
   },
   "logoInfo": {
-    "title": "学生管理系统",
+    "title": "教务管理系统",
     "image": "layuimini/images/logoo.png",
     "href": "manager/manager_index.jsp"
   },
